@@ -5,8 +5,7 @@ import plotly.express as px
 # -------------------------
 # 讀取資料
 # -------------------------
-df = pd.read_csv("Airline_Delay_Cause.csv")
-
+df = pd.read_csv("small_flight_delay.csv")
 # -------------------------
 # 網頁標題
 # -------------------------
